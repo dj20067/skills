@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Editor temporary files
+*.swp
+*.swo
+*~
