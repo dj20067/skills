@@ -1,0 +1,3 @@
+interface:
+  display_name: "product-map"
+  short_description: "基于代码与文档提炼产品信息架构、关键用户流程和交互状态，帮助理解产品与对齐设计"
